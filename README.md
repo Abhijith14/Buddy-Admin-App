@@ -1,11 +1,15 @@
 <h1 align="center">
-  Modern Calculator
+  BUDDY ADMIN APP
 </h1>
 <p align="center">
-  A Modern Calculator for performing simple arithmetic operations using VB.NET
+  A solution for viewing statistics for my BUDDY Website
 </p>
 
-![demo](https://raw.githubusercontent.com/Abhijith14/ModernCalculatorVB/master/readme_assets/project.png)
+<center>
+
+![demo](https://raw.githubusercontent.com/Abhijith14/Buddy-Admin-App/master/readme_assets/demo.png)
+
+</center>
 
 <br>
 <br>
@@ -15,31 +19,38 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-_**Note : This project is created in Microsoft Visual Studio Community 2019 Version 16.8.4 with a display scale of 175%. So if your's isnt 175%, change your default size to 175% or convert back this project to your recommended size.**_
+### Version Info
+
+_**Android Studio 4.1.1**_  
+_**Build #AI-201.8743.12.41.6953283, built on November 5, 2020**_  
+_**Runtime version: 1.8.0_242-release-1644-b01 amd64**_  
+_**VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o**_  
+_**Windows 10 10.0**_  
+_**GC: ParNew, ConcurrentMarkSweep**_  
+_**Memory: 1237M**_  
+_**Cores: 12**_  
+
 
 ### Installing Setup
 
 
 ```
-Open the "Setup Files for Me" folder.
-Run the setup.exe application
+Open the "FINAL_APK" folder.
+Run the app-debug.apk in your Emulator or Android Device
 ```
 
 <br>
 
-## 🔧 Cloning to Visual Studio
-
-Visual Studio solution file can be found [here.](https://github.com/Abhijith14/ModernCalculatorVB/tree/master/Project/Modern%20Calculator)
-
+## 🔧 Cloning to Android Studio
 
 ### Deployment
 
-After clonning [this repo](https://github.com/Abhijith14/ModernCalculatorVB.git), run Form1. Find the code in Form1.vb and Design in Form1.vb (Design).
+After clonning [this repo](https://github.com/Abhijith14/Buddy-Admin-App.git), run app.
 
 ### Built With
 
 * [Canva](https://www.canva.com/) - Designing
-* [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/) - Creating Project
+* [Android Studio 4.1.1](https://developer.android.com/studio) - Developing Project
 
 
 ### Authors
@@ -58,20 +69,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/ModernCalculatorVB](https://github.com/Abhijith14/ModernCalculatorVB). Thanks!
-
-<br>
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                | RGB		             |
-| -------------- | ------------------------------------------------------------------ |	------------------ |
-| Black          | ![#151314](https://via.placeholder.com/10/151314?text=+) `#151314` |	rgb(21,19,20)	     |
-| White          | ![#f2f3f7](https://via.placeholder.com/10/f2f3f7?text=+) `#f2f3f7` |	rgb(242,243,247)   |
-| Green			     | ![#56a858](https://via.placeholder.com/10/56a858?text=+) `#56a858` |	rgb(86,168,88)     |
-| Red            | ![#f5413b](https://via.placeholder.com/10/f5413b?text=+) `#f5413b` |	rgb(245,65,59)     |
-| Grey           | ![#6c6e79](https://via.placeholder.com/10/6c6e79?text=+) `#6c6e79` |	rgb(108,110,121)   |
-
-  <br>
-  <br>
-
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Buddy-Admin-App](https://github.com/Abhijith14/Buddy-Admin-App). Thanks!
